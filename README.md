@@ -2,7 +2,7 @@
 Serialtool opensource by qt 
 <p align="center">
   <a>
-    <img src="https://raw.githubusercontent.com/wiki/gztss/SerialTool/image/logo.png" alt="logo" width=64 height=64>
+ #   <img src="https://raw.githubusercontent.com/wiki/gztss/SerialTool/image/logo.png" alt="logo" width=64 height=64>
   </a>
   <h2 align="center">SerialTool</h2>
   <p align="center">
