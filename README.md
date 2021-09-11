@@ -122,11 +122,7 @@ SerialTool的波形显示模块使用简单的协议进行数据传输，我们�
 2. 在Qt Creator右下角选择配置为Release（可选）。
 3. 编译项目。
 
-## 交流
 
-QQ群：961508887
-
-当然，有问题的建议发[issue](https://github.com/gztss/SerialTool/issues)。
 
 ## 开源协议
 
